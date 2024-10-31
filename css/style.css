@@ -1,0 +1,12 @@
+@font-face {
+  font-family: PP Neue Montreal Mono Book;
+  src: url(../font/pp-neue-montreal-mono-book.ttf);
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f3efec;
+  font-family: "PP Neue Montreal Mono Book";
+}
